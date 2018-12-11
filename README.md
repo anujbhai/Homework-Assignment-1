@@ -9,6 +9,7 @@ In Windows, open cmd, navigate to root directory and run
 Then open Postman app and select POST request, enter the url 'localhost:3000/hello', click 'Send' button.
 
 The output in cmd will be 'Return this response:  406 {"message":"Welcome User"}'
+
  
  Production
  __________
